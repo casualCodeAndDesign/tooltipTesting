@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tooltips>
+  <tooltip id="question_1" title="How old are you?">
+    <description>
+        Answer here how old are you?
+    </description>
+  </tooltip>
+  <tooltip id="question_2" title="Your gender">
+    <description>
+        There is really only 2 possibilities!
+    </description>
+  </tooltip>
+  <tooltip id="path_1" title="Second Page">
+    <description>
+      This is now the second page
+    </description>
+  </tooltip>
+  <tooltip id="path_2" title="Third page">
+    <description>
+      This is now the third page, in total
+    </description>
+  </tooltip>
+</tooltips>
